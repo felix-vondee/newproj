@@ -9,6 +9,6 @@
 # Authors
 
 ## Author 1
-- Name: [@felix-vondee](https://github.com/felix-vondee)
+- Github: [@felix-vondee](https://github.com/felix-vondee)
 - LinkedIn: [@Felix Vondee](https://linkedin.com/felix_vondee)
 - Twitter: [@felix_vondee](https://twitter.com/felix_vondee)
